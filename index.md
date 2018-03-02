@@ -17,9 +17,10 @@ I am a second-year Ph.D student in system group at the department of computer sc
 
 # Publications
 
-- [Understanding Performance Inefficiencies in Real-world Database-backed Applications](https://hyperloop-rails.github.io/220-HowNotStructure.pdf) (CIKM'17)
+- [Understanding Performance Inefficiencies in Real-world Database-backed Applications](https://hyperloop-rails.github.io/study_db.pdf) *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIKM'17)
 
-- [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/study_db.pdf) (ICSE'18)
+- [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/220-HowNotStructure.pdf) ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (ICSE'18)
+
 
 # Teaching
 
