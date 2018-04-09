@@ -8,7 +8,8 @@ layout: default
 ![junwen]({{ site.url }}/image.jpg){:class="img-responsive"}
 
 
-I am a second-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu) on the performance of database-backed web applications.
+I am a second-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
+data processing and data analytics systems.
 
 # Education
 - 2016.8-now, University of Chicago, Ph.D., Computer Science, Supervisor: Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu)
@@ -25,6 +26,9 @@ I am a second-year Ph.D student in system group at the department of computer sc
 
 - [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/220-HowNotStructure.pdf) ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (ICSE'18)
 
+# Service
+
+- ACM-W mentor program
 
 # Teaching
 
