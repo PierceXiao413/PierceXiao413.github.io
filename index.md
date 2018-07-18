@@ -26,6 +26,9 @@ data processing and data analytics systems.
 
 - [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/220-HowNotStructure.pdf) ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (ICSE'18)
 
+- [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.pdf) ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (ICSE'18)
+   
+
 # Service
 
 - ACM-W mentor program
