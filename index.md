@@ -55,12 +55,12 @@ data processing and data analytics systems.
 
 - Email Address: junwen at uchicago dot edu
 
-- Office Address: 
-   JCL 283
-   Department of Computer Science
-   The University of Chicago
-   5730 S. Ellis Avenue
-   Chicago, IL 60637
+- Office Address: <br/>
+   JCL 283 <br/>
+   Department of Computer Science <br/>
+   The University of Chicago <br/>
+   5730 S. Ellis Avenue <br/>
+   Chicago, IL 60637 <br/>
 
 # Resume
 
