@@ -55,9 +55,12 @@ data processing and data analytics systems.
 
 - Email Address: junwen at uchicago dot edu
 
-- Phone Number: +1(872)904-8787
-
-- Office Address: Ry 175B, University of Chicago
+- Office Address: 
+   JCL 283
+   Department of Computer Science
+   The University of Chicago
+   5730 S. Ellis Avenue
+   Chicago, IL 60637
 
 # Resume
 
