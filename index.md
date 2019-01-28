@@ -39,6 +39,8 @@ data processing and data analytics systems.
 # Service
 
 - ACM-W mentor program
+- Student Volunteer for SOSP 2017
+- Student volunteer for SIGMOD 2017
 
 # Teaching
 
