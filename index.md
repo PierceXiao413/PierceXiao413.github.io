@@ -64,4 +64,4 @@ data processing and data analytics systems.
 
 # Resume
 
-This is my [CV]({{ site.url }}/CV.pdf)
+This is my [resume]({{ site.url }}/CV.pdf)
