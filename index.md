@@ -19,8 +19,11 @@ data processing and data analytics systems.
 # Research Projects
 
 - [Hyperloop](http://hyperloop.cs.uchicago.edu), improve the performance of your ORM applications.
-   - [PowerStation](http://hyperloop.cs.uchicago.edu/powerstation), a RubyMine plugin to help you find performance bugs
-   - [Panorama](https://hyperloop-rails.github.io/panorama/), a view-centric and database-aware development environment for web developers
+
+   - [PowerStation](http://hyperloop.cs.uchicago.edu/powerstation), a RubyMine plugin to help you find performance bugs.
+   
+   - [Panorama](https://hyperloop-rails.github.io/panorama/), a view-centric and database-aware development environment for web developers.
+   
 
 # Publications
 
@@ -39,7 +42,9 @@ data processing and data analytics systems.
 # Service
 
 - ACM-W mentor program
+
 - Student Volunteer for SOSP 2017
+
 - Student volunteer for SIGMOD 2017
 
 # Teaching
