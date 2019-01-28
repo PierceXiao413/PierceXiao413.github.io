@@ -24,14 +24,17 @@ data processing and data analytics systems.
 
 # Publications
 
-- [Understanding Performance Inefficiencies in Real-world Database-backed Applications](https://hyperloop-rails.github.io/study_db.pdf) *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIKM'17)
 
-- [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/220-HowNotStructure.pdf) ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (ICSE'18)
+- [View-Centric Performance Optimization for Database-Backed Web Applications](#). ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)
 
-- [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.pdf) ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (FSE'18 Demonstartion Track)
 
-- [View-Centric Performance Optimization for Database-Backed Web Applications](#) ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)
+- [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.pdf). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (FSE'18 Demonstartion Track)
+
+- [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/220-HowNotStructure.pdf). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (ICSE'18)
    
+- [Understanding Performance Inefficiencies in Real-world Database-backed Applications](https://hyperloop-rails.github.io/study_db.pdf). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIKM'17)
+
+
 
 # Service
 
