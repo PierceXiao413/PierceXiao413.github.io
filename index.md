@@ -28,7 +28,7 @@ data processing and data analytics systems.
 # Publications
 
 
-- [View-Centric Performance Optimization for Database-Backed Web Applications](#). ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)
+- [View-Centric Performance Optimization for Database-Backed Web Applications](#). ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)  <i class='fas fa-medal' style='font-size:24px;color:red'></i>
 
 
 - [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.pdf). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (FSE'18 Demonstartion Track)
