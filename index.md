@@ -53,13 +53,11 @@ data processing and data analytics systems.
 
 # Awards
 
-- SOSP'17 student travel grant
-
-- CIKM'17 student travel grant
-
-- SIGIR'17 student travel grant
+- SOSP'17, CIKM'17, SIGIR'17 travel grant
 
 - CERES Outstanding Research Award 1st Year Graduate 2017
+
+- UU Fellowship 2019
 
 # Contact
 
