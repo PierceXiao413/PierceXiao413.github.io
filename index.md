@@ -70,5 +70,5 @@ data processing and data analytics systems.
    5730 S. Ellis Avenue <br/>
    Chicago, IL 60637 <br/>
 
-# [Resume]({{ site.url }}/CV.pdf)
+# [Resume]({{ site.url }}/jw_cv_long.pdf)
 
