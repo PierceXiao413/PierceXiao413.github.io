@@ -8,7 +8,7 @@ layout: default
 ![junwen]({{ site.url }}/image.jpg){:class="img-responsive"}
 
 
-I am a second-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Yunquan Zhang](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
+I am a second-year graduate student in State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences. I am working with Prof. [Yunquan Zhang](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
 data processing and data analytics systems.
 
 # Education
