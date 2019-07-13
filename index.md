@@ -25,7 +25,13 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
    - Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
 
-- A high-performance gaussian filter on GPU based on OpenCL.
+- A high-performance gaussian filter on AMD GPU based on OpenCL.
+
+   - Implement column-row seperatable gaussian filter based on OpenCL.
+
+   - Tune performance specifically for AMD GPU (GCN Architecture).
+
+   - Faster than its counterpart of OpenCV around 10%-20%, especially when filter size is larger than 5.
 
 - A high-performance IPP library on ARMv8 architecture.
 
@@ -37,7 +43,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - Amazon AWS AI Lab
 
-- Develop numpy-compatible operators for MXNet as a sde.
+- Develop numpy-compatible operators for MXNet.
 
 # Publications
 
