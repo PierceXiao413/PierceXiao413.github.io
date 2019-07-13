@@ -6,6 +6,7 @@ layout: default
 ---
 
 ![xiaowang]({{ site.url }}/image.jpg){:class="img-responsive"}
+<!--[xiaowang]({{ site.url }}/image.jpg){:class="img-responsive"}-->
 
 
 I am a second-year graduate student in [State Key Laboratory of Computer Architecture](http://www.carch.ac.cn/), [Institute of Computing Technology, Chinese Academy of Sciences (SKL, ICT, CAS)](http://www.ict.cas.cn/). I am supervised by Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html) on the high performance computing including performance tuning, SIMD optimization, GPGPU.
@@ -63,6 +64,6 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Contact
 
-- Email Address: wangxiao17s at ict dot ac dot cn or lmzxiao at gmail dot com
+- Email Address: wangxiao17s@ict.ac.cn or lmzxiao@gmail.com
 
 - Address: No.6 Zhong Guan Cun Ke Xue Yuan South Road, Haidian District, Beijing, China <br/>
