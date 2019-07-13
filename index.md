@@ -41,9 +41,9 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Publications
 
-- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform](http://www.escience.cn/system/download/103329).Wang Xiao and Jia Haipeng and Li Zhihao and Zhang Yunquan. International Conference on Algorithms and Architectures for Parallel Processing: 2018 ,338--353. (CCF C; EI).
+- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform](http://www.escience.cn/system/download/103329). Wang Xiao and Jia Haipeng and Li Zhihao and Zhang Yunquan. International Conference on Algorithms and Architectures for Parallel Processing: 2018 ,338--353. (CCF C; EI).
 
-- [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821).Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and Xiao Wang et al. Journal of Parallel and Distributed Computing: 2019 ,124 ,78 - 91. (CCF B; SCI, Impact Factor:1.815).
+- [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821). Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and Xiao Wang et al. Journal of Parallel and Distributed Computing: 2019 ,124 ,78 - 91. (CCF B; SCI, Impact Factor:1.815).
 
 - [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations](https://link.springer.com/content/pdf/bbm%3A978-3-319-39958-4%2F1.pdf). Xiao Wang, Hongmei Chen*, Qing Xiao. Conference on Web-Age Information Management 2016, 524-526. (Demo Paper, CCF C; EI).
 
@@ -57,14 +57,6 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Contact
 
-- Email Address: junwen at uchicago dot edu
+- Email Address: wangxiao17s at ict dot ac dot cn or lmzxiao at gmail dot com
 
-- Office Address: <br/>
-   JCL 283 <br/>
-   Department of Computer Science <br/>
-   The University of Chicago <br/>
-   5730 S. Ellis Avenue <br/>
-   Chicago, IL 60637 <br/>
-
-# [Resume]({{ site.url }}/jw_cv_long.pdf)
-
+- Address: No.6 Zhong Guan Cun Ke Xue Yuan South Road, Haidian District, Beijing, China <br/>
