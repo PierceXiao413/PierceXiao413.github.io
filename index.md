@@ -45,6 +45,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821).Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and Xiao Wang et al. Journal of Parallel and Distributed Computing: 2019 ,124 ,78 - 91. (CCF B; SCI, Impact Factor:1.815).
 
+- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations](https://link.springer.com/content/pdf/bbm%3A978-3-319-39958-4%2F1.pdf). Xiao Wang, Hongmei Chen*, Qing Xiao. Conference on Web-Age Information Management 2016, 524-526. (Demo Paper, CCF C; EI).
 
 # Awards
 
