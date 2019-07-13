@@ -37,21 +37,13 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - Amazon AWS AI Lab
 
-- Develop numpy-compatible operator for MXNet.
+- Develop numpy-compatible operators for MXNet as a sde.
 
 # Publications
 
+- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform](http://www.escience.cn/system/download/103329).Wang Xiao and Jia Haipeng and Li Zhihao and Zhang Yunquan. International Conference on Algorithms and Architectures for Parallel Processing: 2018 ,338--353. (CCF C; EI).
 
-- [View-Centric Performance Optimization for Database-Backed Web Applications](#). ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>SIGSOFT Distinguished Paper Award</i></font>
-
-
-- [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.pdf). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (FSE'18 Demonstartion Track)
-
-- [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/220-HowNotStructure.pdf). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (ICSE'18)
-   
-- [Understanding Performance Inefficiencies in Real-world Database-backed Applications](https://hyperloop-rails.github.io/study_db.pdf). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIKM'17)
-
-
+- [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821).Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and Xiao Wang et al. Journal of Parallel and Distributed Computing: 2019 ,124 ,78 - 91. (CCF B; SCI, Impact Factor:1.815).
 
 # Service
 
@@ -60,10 +52,6 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 - Student Volunteer for SOSP 2017
 
 - Student volunteer for SIGMOD 2017
-
-# Teaching
-
-- TA for CS23200/33250 Computer Security
 
 # Awards
 
