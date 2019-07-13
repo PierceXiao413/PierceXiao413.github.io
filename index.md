@@ -45,21 +45,14 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821).Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and Xiao Wang et al. Journal of Parallel and Distributed Computing: 2019 ,124 ,78 - 91. (CCF B; SCI, Impact Factor:1.815).
 
-# Service
-
-- ACM-W mentor program
-
-- Student Volunteer for SOSP 2017
-
-- Student volunteer for SIGMOD 2017
 
 # Awards
 
-- SOSP'17, CIKM'17, SIGIR'17 travel grant
+- 2019 Merit Students Awards of University of Chinese Academy of Sciences.
 
-- CERES Outstanding Research Award 1st Year Graduate 2017
+- 2016 The CCF Outstanding Undergraduate Award.(Select 100 undergraduate students every year across whole country)
 
-- UU Fellowship 2019
+- 2015 Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling. 
 
 # Contact
 
