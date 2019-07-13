@@ -5,7 +5,7 @@
 layout: default 
 ---
 
-![xiaowang](){:class="img-responsive"}
+![xiaowang]
 <!--[xiaowang]({{ site.url }}/image.jpg){:class="img-responsive"}-->
 
 
