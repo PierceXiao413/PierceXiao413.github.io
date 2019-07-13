@@ -8,13 +8,12 @@ layout: default
 ![junwen]({{ site.url }}/image.jpg){:class="img-responsive"}
 
 
-I am a second-year graduate student in State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences. I am working with Prof. [Yunquan Zhang](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
-data processing and data analytics systems.
+I am a second-year graduate student in [State Key Laboratory of Computer Architecture](http://www.carch.ac.cn/), [Institute of Computing Technology, Chinese Academy of Sciences (SKL, ICT, CAS)](http://www.ict.cas.cn/). I am supervised by Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html) on the high performance computing including performance tuning, SIMD optimization, GPGPU.
 
 # Education
-- 2016.8-now, University of Chicago, Ph.D., Computer Science, Supervisor: Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu)
+- 2017.9-now, Institute of Computing Technology, Chinese Academy of Sciences, Master., High Performance Computing, Supervisor: Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html).
 
-- 2011.9-2015.7, Fudan University, B.Eng, Software Engineering
+- 2013.9-2017.7, Yunnan University, B.Eng, Computer Science. 
 
 # Research Projects
 
