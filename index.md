@@ -71,4 +71,5 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - Address: No.6 Zhong Guan Cun Ke Xue Yuan South Road, Haidian District, Beijing, China <br/>
 
+# Resume
 [Resume]({{ site.url }}/xiaowang_cv_long.pdf)
