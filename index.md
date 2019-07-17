@@ -17,21 +17,14 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Research Projects
 
-- RealFFT Library, High performance implementation of Real FFT on both ARMv8 and X86-64 CPU.
+- RealFFT Library, High performance implementation of 1D-3D float/double Real FFT on both ARMv8 and X86-64 CPU.
 
    - Implement stockham butterfly-network for even-size real input data, including 11 real FFT kinds.
    
-   - Optimize split operations in NEON and AVX on ARMv8 and X86 respectively.
+   - Optimize computation in NEON and AVX on ARMv8 and X86 respectively.
 
-   - Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
+   - Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform around 34%~53% for 1D transforms, 10%~41% for 2D transforms, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
 
-- A high-performance gaussian filter on AMD GPU based on OpenCL.
-
-   - Implement column-row seperatable gaussian filter based on OpenCL.
-
-   - Tune performance specifically for AMD GPU (GCN Architecture).
-
-   - Faster than its counterpart of OpenCV around 10%-20%, especially when filter size is larger than 5.
 
 - A high-performance IPP library on ARMv8 architecture.
 
@@ -41,9 +34,20 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Internship
 
-- Amazon AWS AI Lab
+- Amazon AWS AI Lab(ShangHai)
 
 - Develop numpy-compatible operators for MXNet.
+
+- PerfxLab(Startup in Beijing)
+
+   - A high-performance Gaussian Filter on AMD GPU based on OpenCL.
+
+   - Implement column-row seperatable gaussian filter based on OpenCL.
+
+   - Tune performance specifically for AMD GPU (GCN Architecture).
+
+   - Faster than its counterpart of OpenCV around 21%-33%, especially when filter size is larger than 5.
+
 
 # Publications
 
@@ -66,3 +70,5 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 - Email Address: wangxiao17s@ict.ac.cn or lmzxiao@gmail.com
 
 - Address: No.6 Zhong Guan Cun Ke Xue Yuan South Road, Haidian District, Beijing, China <br/>
+
+[Resume]({{ site.url }}/xiaowang_cv_long.pdf)
