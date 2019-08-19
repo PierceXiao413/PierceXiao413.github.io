@@ -36,7 +36,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - Amazon AWS AI Lab(ShangHai)
 
-- Develop numpy-compatible operators for MXNet.
+   - Develop numpy-compatible operators for MXNet.
 
 - PerfxLab(Startup in Beijing)
 
