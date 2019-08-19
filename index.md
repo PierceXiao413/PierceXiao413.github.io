@@ -5,7 +5,7 @@
 layout: default 
 ---
 
-![xiaowang]({{ site.url }}/wangxiao.jpg){:class="img-responsive"}
+![xiaowang(王霄)]({{ site.url }}/wangxiao.jpg){:class="img-responsive"}
 
 
 I am a second-year graduate student in [State Key Laboratory of Computer Architecture](http://www.carch.ac.cn/), [Institute of Computing Technology, Chinese Academy of Sciences (SKL, ICT, CAS)](http://www.ict.cas.cn/). I am supervised by Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html) on the high performance computing including performance tuning, SIMD optimization, GPGPU.
