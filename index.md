@@ -11,22 +11,22 @@ layout: default
 I am a second-year graduate student in [State Key Laboratory of Computer Architecture](http://www.carch.ac.cn/), [Institute of Computing Technology, Chinese Academy of Sciences (SKL, ICT, CAS)](http://www.ict.cas.cn/). I am supervised by Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html) on the high performance computing including performance tuning, SIMD optimization, GPGPU.
 
 # Education
-- 2017.9-now, Institute of Computing Technology, Chinese Academy of Sciences, Master., High Performance Computing, Supervisor: Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html).
+- 2017.9-Now, Institute of Computing Technology, Chinese Academy of Sciences, Master., High Performance Computing, Supervisor: Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html).
 
-- 2013.9-2017.7, Yunnan University, B.Eng, Computer Science. 
+- 2013.9-2017.7, Yunnan University, B.Eng, Computer Science(Top 5%). 
 
 # Research Projects
 
-- RealFFT Library, High performance implementation of 1D-3D float/double Real FFT on both ARMv8 and X86-64 CPU.
+- RealFFT Library, High performance implementation of 1D-3D float/double Real FFT on both ARMv8 and X86-64 CPU.                     Core Developer
 
    - Implement stockham butterfly-network for even-size real input data, including 11 real FFT kinds.
-   
+
    - Optimize computation in NEON and AVX on ARMv8 and X86 respectively.
 
    - Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform around 34%~53% for 1D transforms, 10%~41% for 2D transforms, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
 
 
-- A high-performance IPP library on ARMv8 architecture.
+- A high-performance IPP library on ARMv8 architecture.                                                                             Core Developer
 
    - Implement performance primitives on ARMv8 corresponding to Intel IPP counterpart, such as median filter, max, min, e^x, ln(x).
 
@@ -34,11 +34,11 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Internship
 
-- Amazon AWS AI Lab(ShangHai)
+- Amazon AWS AI Lab(ShangHai) (2019.06~2019.08)                                 Software Developer Intern
 
    - Develop numpy-compatible operators for MXNet.
 
-- PerfxLab(Startup in Beijing)
+- PerfxLab(Startup in Beijing) (2019.03~2019.06)                                Core Developer
 
    - A high-performance Gaussian Filter on AMD GPU based on OpenCL.
 
@@ -63,7 +63,9 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - 2019 Merit Students Awards of University of Chinese Academy of Sciences.
 
-- 2016 The CCF Outstanding Undergraduate Award.(Select 100 undergraduate students every year across whole country)
+- 2017 Outstanding Undergraduate Students Awards of Yunnan province(Top 5%).
+
+- 2016 The CCF Outstanding Undergraduate Award.(Select 100 undergraduate students every year from all universities in China)
 
 - 2015 Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling. 
 
