@@ -51,13 +51,13 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Publications
 
-- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform](http://www.escience.cn/system/download/103329). **Wang Xiao** and Jia Haipeng and Li Zhihao and Zhang Yunquan. International Conference on Algorithms and Architectures for Parallel Processing: 2018 ,338--353. (CCF C; EI).
+- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform](http://www.escience.cn/system/download/103329). **Wang Xiao** and Jia Haipeng and Li Zhihao and Zhang Yunquan. International Conference on Algorithms and Architectures for Parallel Processing: 2018 ,338-353. Guangzhou, China. (ICA3PP18, CCF C; EI).
 
-- [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821). Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and **Xiao Wang** et al. Journal of Parallel and Distributed Computing: 2019 ,124 ,78 - 91. (CCF B; SCI, Impact Factor:1.815).
+- [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821). Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and **Xiao Wang** et al. Journal of Parallel and Distributed Computing: 2019 ,124 ,78 - 91. (JPDC, CCF B; SCI, Impact Factor:1.815).
 
-- [AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs](). Zhihao Li, Haipeng Jia*, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, **Xiao Wang**. The International Conference for High Performance Computing, Networking, Storage, and Analysis. (CCF A; SC19 November 17–22, 2019, Denver, CO, USA).
+- [AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs](). Zhihao Li, Haipeng Jia*, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, **Xiao Wang**. The International Conference for High Performance Computing, Networking, Storage, and Analysis. November 17–22, 2019, Denver, CO, USA. (SC19, CCF A).
 
-- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations](https://link.springer.com/content/pdf/bbm%3A978-3-319-39958-4%2F1.pdf). **Xiao Wang**, Hongmei Chen*, Qing Xiao. Conference on Web-Age Information Management 2016, 524-526. (Demo Paper, CCF C; EI).
+- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations](https://link.springer.com/content/pdf/bbm%3A978-3-319-39958-4%2F1.pdf). **Xiao Wang**, Hongmei Chen*, Qing Xiao. Conference on Web-Age Information Management 2016, 524-526. Nanchang, China. (WAIM16; Demo Paper, CCF C; EI).
 
 # Awards
 
@@ -68,6 +68,12 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 - 2016 The CCF Outstanding Undergraduate Award.(Select 100 undergraduate students every year from all universities in China)
 
 - 2015 Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling. 
+
+# Skills
+
+- Programming Language: proficient in c, SIMD(Neon/AVX), skilled at OpenCL/c++. 
+- Development Tools: proficient in VIM, CMAKE, Git, gcc, g++, average at Google GTEST, Makefile. 
+- English Level: Toefl 102.
 
 # Contact
 
