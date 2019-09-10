@@ -21,6 +21,8 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
    - **Client**: HuaWei
 
+   - **Role**: Core Developer 
+
    - Design and optimize 11 kind 1D~3D Float/Double Real FFT algorithms.
 
    - Implement Stockham Butterfly-Network for even-size real input data, including 11 real FFT kinds.
@@ -31,20 +33,48 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
    - **Optimizing Effect**: Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform around 34%~53% for 1D transforms, 10%~41% for 2D transforms, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
 
+- A high-performance IPP library on ARMv8 architecture.                                                           
 
-- A high-performance IPP library on ARMv8 architecture(Client: HuaWei).                                                                             Core Developer
+   - **Client**: HuaWei 
 
-   - Implement performance primitives on ARMv8 corresponding to Intel IPP counterpart, such as median filter, max, min, e^x, ln(x).
+   - **Role**: Core Developer
+
+   - Develop accuracy benchmark for performance primitives, such as e^x, ln(x), median filter, max operation, min operation, etc.
+
+   - Parallelize and optimize these operations on ARMv8 CortexA57 CPU with Neon SIMD.
 
    - Optimize these operations with NEON intrinsics on ARMv8.
 
+   - **Optimizing Effect**: Speedup achieved on ARMv8 is comparable with that achieved on X86 compared with the same performance benchmark.
+
+
+- Transplant OpenBLAS GEMM on Tianhe-3 Supercomputer FT2000+ CPU  
+
+   - **Client**: National Supercomputing Center in TianJin 
+
+   - **Role**: Core Developer
+
+   - Tune GEMM performance based on architecture of FT2000+ CPU.
+
+   - Adjust P, Q, R parameter in block size of matrix multiplication. 
+
+   - Manage vector registers in different ways, such as 4x4, 16x4 and 8x8. 
+
+   - Tune instructions order.
+
+   - **Optimizing Effect**: SGEMM, DGEMM, CGEMM, ZGEMM achieve 94.2%, 04.3%, 87.6%, 95.4% of theoretical peak performance.
+
 # Internship
 
-- Amazon AWS AI Lab(ShangHai) (2019.06~2019.08)                                 Software Developer Intern
+- Amazon AWS AI Lab(ShangHai) (2019.06~2019.08)                                 
 
-   - Develop numpy-compatible operators for MXNet.
+   - **Role**: Software Developer Intern
 
-- PerfxLab(Startup in Beijing) (2019.03~2019.06)                                Core Developer
+   - Contribute numpy-compatible operators to MXNet.
+
+- PerfxLab(Startup in Beijing) (2019.03~2019.06)                                
+
+   - **Role**: Core Developer.
 
    - A high-performance Gaussian Filter on AMD GPU based on OpenCL.
 
@@ -71,15 +101,26 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - 2017 Outstanding Undergraduate Students Awards of Yunnan province(Top 5%).
 
-- 2016 The CCF Outstanding Undergraduate Award.(Select 100 undergraduate students every year from all universities in China)
+- 2016 The CCF Outstanding Undergraduate Award.(Select 100 undergraduate students every year from all universities in China).
 
-- 2015 Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling. 
+- 2015 First Prize in Contemporary Undergraduate Mathematical Contest in Modeling in Yunnan Province. 
 
-# Skills
+- Merit Student of Yunnan University && First-class Scholarship.
+
+#OTHER EXPERIENCE
+
+- Serving as volunteer in Mental Health Therapy Center in Kunming.
+
+- Serving as volunteer in water supply for foresters around University of Chinese academy of Sciences. 
+
+
+# SKILLS
 
 - Programming Language: proficient in c, SIMD(Neon/AVX), skilled at OpenCL/c++. 
+
 - Development Tools: proficient in VIM, CMAKE, Git, gcc, g++, average at Google GTEST, Makefile. 
-- English Level: Toefl 102.
+
+- English Level: Toefl 102, GRE 328.
 
 # Contact
 
