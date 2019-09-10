@@ -17,13 +17,19 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Research Projects
 
-- RealFFT Library, High performance implementation of 1D-3D float/double Real FFT on both ARMv8 and X86-64 CPU(Client: HuaWei).                     Core Developer
+- RealFFT Library, High performance implementation of 1D-3D float/double Real FFT on both ARMv8 and X86-64 CPU 
 
-   - Implement stockham butterfly-network for even-size real input data, including 11 real FFT kinds.
+   - **Client**: HuaWei
 
-   - Optimize computation in NEON and AVX on ARMv8 and X86 respectively.
+   - Design and optimize 11 kind 1D~3D Float/Double Real FFT algorithms.
 
-   - Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform around 34%~53% for 1D transforms, 10%~41% for 2D transforms, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
+   - Implement Stockham Butterfly-Network for even-size real input data, including 11 real FFT kinds.
+
+   - Optimize and Parallalize Real FFT computations with NEON and AVX on ARMv8/X86 CPUs.
+
+   - Blocking computations with different level caches.
+
+   - **Optimizing Effect**: Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform around 34%~53% for 1D transforms, 10%~41% for 2D transforms, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
 
 
 - A high-performance IPP library on ARMv8 architecture(Client: HuaWei).                                                                             Core Developer
