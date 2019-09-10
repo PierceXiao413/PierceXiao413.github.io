@@ -64,7 +64,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
    - **Optimizing Effect**: SGEMM, DGEMM, CGEMM, ZGEMM achieve 94.2%, 04.3%, 87.6%, 95.4% of theoretical peak performance.
 
-# Internship
+# INTERNSHIPS 
 
 - Amazon AWS AI Lab(ShangHai) (Jun.2019~Aug.2019)                                 
 
@@ -95,7 +95,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations](https://link.springer.com/content/pdf/bbm%3A978-3-319-39958-4%2F1.pdf). **Xiao Wang**, Hongmei Chen*, Qing Xiao. Conference on Web-Age Information Management 2016, 524-526. Nanchang, China. (WAIM16; Demo Paper, CCF C; EI).
 
-# Awards
+# AWARDS 
 
 - 2019 Merit Students Awards of University of Chinese Academy of Sciences.
 
@@ -107,7 +107,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - Merit Student of Yunnan University && First-class Scholarship.
 
-#OTHER EXPERIENCE
+# OTHER EXPERIENCE
 
 - Serving as volunteer in Mental Health Therapy Center in Kunming.
 
