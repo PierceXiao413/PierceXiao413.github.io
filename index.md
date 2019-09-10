@@ -10,12 +10,12 @@ layout: default
 
 I am a second-year graduate student in [State Key Laboratory of Computer Architecture](http://www.carch.ac.cn/), [Institute of Computing Technology, Chinese Academy of Sciences (SKL, ICT, CAS)](http://www.ict.cas.cn/). I am supervised by Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html) on the high performance computing including performance tuning, SIMD optimization, GPGPU.
 
-# Education
+# EDUCATIONS 
 - 2017.9-Now, Institute of Computing Technology, Chinese Academy of Sciences, Master., High Performance Computing, Supervisor: Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html).
 
 - 2013.9-2017.7, Yunnan University, B.Eng, Computer Science(Top 5%). 
 
-# Research Projects
+# RESEARCH PROJECTS 
 
 - RealFFT Library, High performance implementation of 1D-3D float/double Real FFT on both ARMv8 and X86-64 CPU 
 
@@ -85,7 +85,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
    - Faster than its counterpart of OpenCV around 21%-33%, especially when filter size is larger than 5.
 
 
-# Publications
+# PUBLICATIONS 
 
 - [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform](http://www.escience.cn/system/download/103329). **Wang Xiao** and Jia Haipeng and Li Zhihao and Zhang Yunquan. International Conference on Algorithms and Architectures for Parallel Processing: 2018 ,338-353. Guangzhou, China. (ICA3PP18, CCF C; EI).
 
@@ -122,11 +122,11 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - English Level: Toefl 102, GRE 328.
 
-# Contact
+# CONTACT 
 
 - Email Address: wangxiao17s@ict.ac.cn or lmzxiao@gmail.com
 
 - Address: No.6 Zhong Guan Cun Ke Xue Yuan South Road, Haidian District, Beijing, China <br/>
 
-# Resume
-[Resume]({{ site.url }}./wangxiao_cv_long.pdf)
+# RESUME 
+[Resume_pdf_version]({{ site.url }}./wangxiao_cv_long.pdf)
