@@ -17,7 +17,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # RESEARCH PROJECTS 
 
-- RealFFT Library, High performance implementation of 1D-3D float/double Real FFT on both ARMv8 and X86-64 CPU 
+- RealFFT Library, High performance implementation of 1D-3D float/double Real FFT on both ARMv8 and X86-64 CPU(Sept.2017~Oct.2018)
 
    - **Client**: HuaWei
 
@@ -33,7 +33,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
    - **Optimizing Effect**: Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform around 34%~53% for 1D transforms, 10%~41% for 2D transforms, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
 
-- A high-performance IPP library on ARMv8 architecture.                                                           
+- A high-performance IPP library on ARMv8 architecture(May.2017~Aug.2017)
 
    - **Client**: HuaWei 
 
@@ -48,9 +48,9 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
    - **Optimizing Effect**: Speedup achieved on ARMv8 is comparable with that achieved on X86 compared with the same performance benchmark.
 
 
-- Transplant OpenBLAS GEMM on Tianhe-3 Supercomputer FT2000+ CPU  
+- Transplant OpenBLAS GEMM on Tianhe-3 Supercomputer FT2000+ CPU(Oct.2018~Nov.2018) 
 
-   - **Client**: National Supercomputing Center in TianJin 
+   - **Client**: National Supercomputing Center in Tianjin 
 
    - **Role**: Core Developer
 
@@ -66,13 +66,13 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Internship
 
-- Amazon AWS AI Lab(ShangHai) (2019.06~2019.08)                                 
+- Amazon AWS AI Lab(ShangHai) (Jun.2019~Aug.2019)                                 
 
    - **Role**: Software Developer Intern
 
    - Contribute numpy-compatible operators to MXNet.
 
-- PerfxLab(Startup in Beijing) (2019.03~2019.06)                                
+- PerfxLab(Startup in Beijing) (Mar.2019~May.2019)                                
 
    - **Role**: Core Developer.
 
