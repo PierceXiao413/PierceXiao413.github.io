@@ -136,7 +136,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
     </style>
   </head>
   <body>
-    <h3>My Footprint Map</h3>
+    <h3>My Google Maps Demo</h3>
     <!--The div element for the map -->
     <div id="map"></div>
     <script>
@@ -146,7 +146,7 @@ function initMap() {
   var uluru = {lat: -25.344, lng: 131.036};
   // The map, centered at Uluru
   var map = new google.maps.Map(
-      document.getElementById('map'), {zoom: 8, center: uluru});
+      document.getElementById('map'), {zoom: 4});
   // The marker, positioned at Uluru
   var marker = new google.maps.Marker({position: uluru, map: map});
 }
