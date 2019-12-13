@@ -143,12 +143,18 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 // Initialize and add the map
 function initMap() {
   // The location of Uluru
-  var uluru = {lat: -25.344, lng: 131.036};
+  var uluru0 = {lat: 39.900630, lng: 116.390563}; 
   // The map, centered at Uluru
   var map = new google.maps.Map(
       document.getElementById('map'), {zoom: 4, center: uluru});
   // The marker, positioned at Uluru
-  var marker = new google.maps.Marker({position: uluru, map: map});
+  var marker0 = new google.maps.Marker({position: uluru0, map: map});
+       
+  var uluru1 = {lat: 22.542417, lng: 114.057303};
+  var marker1 = new google.maps.Marker({position: uluru1, map: map});
+  
+  var uluru2 = {lat: 39.334260, lng: 117.340821}; 
+  var marker2 = new google.maps.Marker({position: uluru2, map: map});
 }
     </script>
     <script async defer
