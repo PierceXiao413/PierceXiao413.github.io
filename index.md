@@ -124,6 +124,8 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - What always makes me feel excited is to travel around. The cities has my footprints includes: China:Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei; the United States Denver, Colorado, Los Angeles, Chicago; Eourpe: Rome, Paris, Luxembourg, Interlaken, Heidelberg.
 
+<!DOCTYPE html>
+<html>
   <head>
     <style>
       /* Set the size of the div element that contains the map */
@@ -153,6 +155,7 @@ function initMap() {
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcROJn76-C6KwfmHEid1SdXYvJCECd13A&callback=initMap">
     </script>
   </body>
+</html>
 
 
 # CONTACT 
