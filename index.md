@@ -124,8 +124,21 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - What always makes me feel excited is to travel around. The cities has my footprints includes: China:Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei; the United States Denver, Colorado, Los Angeles, Chicago; Eourpe: Rome, Paris, Luxembourg, Interlaken, Heidelberg.
 
+  <head>
+    <style>
+      #map {
+        width: 100%;
+        height: 400px;
+        background-color: grey;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+  </body>
 
-<div id="clustrmaps-widget"></div><script type="text/javascript">var _clustrmaps = {'url' : 'http://blog.csdn.net/zhaoyl03', 'user' : 1073715, 'server' : '4', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2013-01-22', 'lang' : 'zh', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www4.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="http://www4.clustrmaps.com/user/5a5106233"><img src="http://www4.clustrmaps.com/stats/maps-no_clusters/blog.csdn.net-zhaoyl03-thumb.jpg" alt="Locations of visitors to this page" /></a></noscript>
 
 # CONTACT 
 
