@@ -120,6 +120,10 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 - English Level: Toefl 102, GRE 328.
 
+# Traveling
+
+- What always makes me feel excited is to travel around. The cities has my footprints includes: China:Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei; the United States Denver, Colorado, Los Angeles, Chicago; Eourpe: Rome, Paris, Luxembourg, Interlaken, Heidelberg.  
+
 # CONTACT 
 
 - Email Address: wangxiao17s@ict.ac.cn or lmzxiao@gmail.com
