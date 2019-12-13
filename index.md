@@ -149,12 +149,6 @@ function initMap() {
       document.getElementById('map'), {zoom: 4, center: uluru});
   // The marker, positioned at Uluru
   var marker0 = new google.maps.Marker({position: uluru0, map: map});
-       
-  //var uluru1 = {lat: 22.542417, lng: 114.057303};
-  //var marker1 = new google.maps.Marker({position: uluru1, map: map});
-  
-  //var uluru2 = {lat: 39.334260, lng: 117.340821}; 
-  //var marker2 = new google.maps.Marker({position: uluru2, map: map});
 }
     </script>
     <script async defer
