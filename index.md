@@ -149,12 +149,94 @@ function initMap() {
       document.getElementById('map'), {zoom: 4, center: uluru0});
   // The marker, positioned at Uluru
   var marker0 = new google.maps.Marker({position: uluru0, map: map});
-       
+   
+  //beijing
   var uluru1 = {lat: 22.542417, lng: 114.057303};
   var marker1 = new google.maps.Marker({position: uluru1, map: map});
   
+  //shenzhen
   var uluru2 = {lat: 39.334260, lng: 117.340821}; 
   var marker2 = new google.maps.Marker({position: uluru2, map: map});
+  
+  //tianjin
+  var uluru3 = {lat: 39.334260, lng: 117.340821}; 
+  var marker3 = new google.maps.Marker({position: uluru3, map: map}); 
+  
+  //tai yuan
+  var uluru4 = {lat: 37.872427, lng: 112.552177}; 
+  var marker4 = new google.maps.Marker({position: uluru4, map: map});
+  
+  //chongqing
+  var uluru5 = {lat: 29.444151, lng: 106.910327}; 
+  var marker5 = new google.maps.Marker({position: uluru5, map: map});
+ 
+  //zhuhai
+  var uluru6 = {lat: 22.270883, lng: 113.580430}; 
+  var marker6 = new google.maps.Marker({position: uluru6, map: map});
+  
+  //guangzhou
+  var uluru7 = {lat: 23.136715, lng: 113.267635}; 
+  var marker7 = new google.maps.Marker({position: uluru7, map: map});
+  
+  //huhot
+  var uluru8 = {lat: 40.842896, lng:  111.743309}; 
+  var marker8 = new google.maps.Marker({position: uluru8, map: map});
+  
+  //dali 
+  var uluru9 = {lat: 25.610374, lng:  100.268560}; 
+  var marker9 = new google.maps.Marker({position: uluru9, map: map});
+  
+  //heifei
+  var uluru10 = {lat: 31.819264, lng:  117.231990}; 
+  var marker10 = new google.maps.Marker({position: uluru10, map: map});
+  
+  //Denver
+  var uluru11 = {lat: 39.744723, lng:  -105.000688}; 
+  var marker11 = new google.maps.Marker({position: uluru11, map: map});
+  
+  //LA
+  var uluru12 = {lat: 34.063402, lng:  -118.259329}; 
+  var marker12 = new google.maps.Marker({position: uluru12, map: map});
+  
+  //Chi
+  var uluru13 = {lat: 41.876097, lng:  -87.631034}; 
+  var marker13 = new google.maps.Marker({position: uluru13, map: map});
+  
+  //Rome
+  var uluru14 = {lat: 41.903853, lng:  12.490672}; 
+  var marker14 = new google.maps.Marker({position: uluru14, map: map});
+  
+  //Pr
+  var uluru15 = {lat: 48.858838, lng:  2.349462}; 
+  var marker15 = new google.maps.Marker({position: uluru15, map: map});
+  
+  //Lux
+  var uluru16 = {lat: 49.619619, lng: 6.134668}; 
+  var marker16 = new google.maps.Marker({position: uluru16, map: map});
+  
+  //Interlake
+  var uluru17 = {lat: 46.686913, lng:7.861864}; 
+  var marker17 = new google.maps.Marker({position: uluru17, map: map});
+  
+  //Interlake
+  var uluru22 = {lat: 46.686913, lng:7.861864}; 
+  var marker22 = new google.maps.Marker({position: uluru22, map: map});
+  
+  //Had
+  var uluru18 = {lat: 49.400569, lng:8.672626}; 
+  var marker18 = new google.maps.Marker({position: uluru18, map: map});
+  
+  //Had
+  var uluru19 = {lat: 49.400569, lng:8.672626}; 
+  var marker19 = new google.maps.Marker({position: uluru19, map: map});
+  
+  //Fk 
+  var uluru20 = {lat: 50.038050, lng:8.562087}; 
+  var marker20 = new google.maps.Marker({position: uluru20, map: map});
+  
+  //Wis
+  var uluru21 = {lat: 45.446384, lng:12.306891}; 
+  var marker21 = new google.maps.Marker({position: uluru21, map: map});
 }
     </script>
     <script async defer
