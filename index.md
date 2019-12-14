@@ -260,6 +260,10 @@ function initMap() {
   //Kaifeng
   var uluru27 = {lat: 34.796132, lng:114.304159}; 
   var marker27 = new google.maps.Marker({position: uluru27, map: map});
+  
+  //Kunming
+  var uluru28 = {lat: 24.873976, lng:102.817274}; 
+  var marker28 = new google.maps.Marker({position: uluru28, map: map});
 }
     </script>
     <script async defer
