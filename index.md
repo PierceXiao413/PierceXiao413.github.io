@@ -122,7 +122,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Traveling
 
-- Exploration on this world is exciting. In the past 25 years, I have left my footprints on three continents. One day, I believe that my footprints will be left on all continents. Currently, the cities include Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei, Denver, Colorado, Los Angeles, Chicago, Rome, Paris, Luxembourg, Interlaken, Venice, Heidelberg.
+- Exploration on this world is exciting. In the past 25 years, I have left my footprints on three continents. One day, I believe that my footprints will be left on all continents. Currently, the cities include Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei, Denver, Colorado, Los Angeles, Chicago, Rome, Paris, Luxembourg, Interlaken, Venice, Heidelberg，Zhengzhou, Shangqiu, Xinxiang, Kaifeng, Nanyang.
 
 <html>
   <head>
