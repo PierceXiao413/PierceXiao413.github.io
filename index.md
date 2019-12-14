@@ -122,9 +122,8 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
 
 # Traveling
 
-- What always makes me feel excited is to travel around. The cities has my footprints includes: China:Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei; the United States Denver, Colorado, Los Angeles, Chicago; Eourpe: Rome, Paris, Luxembourg, Interlaken, Heidelberg.
+- Exploration on this world is exciting. In the past 25 years, I have left my footprints on three continents. One day, I believe that my footprints will be left on all continents. Currently, the cities include Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei, Denver, Colorado, Los Angeles, Chicago, Rome, Paris, Luxembourg, Interlaken, Venice, Heidelberg.
 
-<!DOCTYPE html>
 <html>
   <head>
     <style>
@@ -136,7 +135,7 @@ I am a second-year graduate student in [State Key Laboratory of Computer Archite
     </style>
   </head>
   <body>
-    <h3>My Google Maps Demo</h3>
+    <h3>My Footprints Map :)</h3>
     <!--The div element for the map -->
     <div id="map"></div>
     <script>
@@ -237,6 +236,10 @@ function initMap() {
   //Wis
   var uluru21 = {lat: 45.446384, lng:12.306891}; 
   var marker21 = new google.maps.Marker({position: uluru21, map: map});
+  
+  //Shanghai
+  var uluru22 = {lat: 31.244270, lng:121.454611}; 
+  var marker22 = new google.maps.Marker({position: uluru22, map: map});
 }
     </script>
     <script async defer
