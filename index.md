@@ -240,6 +240,26 @@ function initMap() {
   //Shanghai
   var uluru22 = {lat: 31.244270, lng:121.454611}; 
   var marker22 = new google.maps.Marker({position: uluru22, map: map});
+  
+  //Shangqiu
+  var uluru23 = {lat: 34.412374, lng:115.650319}; 
+  var marker23 = new google.maps.Marker({position: uluru23, map: map});
+  
+  //Nanyang
+  var uluru24 = {lat: 32.991444, lng:112.514431}; 
+  var marker24 = new google.maps.Marker({position: uluru24, map: map});
+  
+  //Zhengzhou
+  var uluru25 = {lat: 34.747609, lng:113.609609}; 
+  var marker25 = new google.maps.Marker({position: uluru25, map: map});
+  
+  //Xinxiang
+  var uluru26 = {lat: 35.301482, lng:113.920327}; 
+  var marker26 = new google.maps.Marker({position: uluru26, map: map});
+  
+  //Kaifeng
+  var uluru27 = {lat: 34.796132, lng:114.304159}; 
+  var marker27 = new google.maps.Marker({position: uluru27, map: map});
 }
     </script>
     <script async defer
