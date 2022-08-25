@@ -5,125 +5,59 @@
 layout: default 
 ---
 
+<!--
 ![xiaowang(王霄)]({{ site.url }}/wangxiao.jpg){:class="img-responsive"}
-I am currently a full-time software engineer in [MaxCompute](https://www.alibabacloud.com/product/maxcompute) Alibaba Cloud, mainly responsible for optimizing its native c++ SQL execution engine. Before that, I achieve my master's degree from [State Key Laboratory of Computer Architecture](http://www.carch.ac.cn/), [Institute of Computing Technology, Chinese Academy of Sciences (SKL, ICT, CAS)](http://www.ict.cas.cn/) under the supervision from Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html). My research interests include High-performance computing(performance tuning, SIMD optimization, GPGPU, GEMM, FFT) and exploring different optimization possibilities to build high-performance computing systems (distributed SQL engine).
+---!>
+I am currently a full-time software engineer in [MaxCompute](https://www.alibabacloud.com/product/maxcompute), [Alibaba Cloud](https://my.alibabacloud.com/?utm_key=se_1007714444&utm_content=se_1007714444&gclid=EAIaIQobChMI4tKox43i-QIVEZhmAh02nwv1EAAYASAAEgIzbvD_BwE). I aim to build and optimze high-performance SQL execution engine. 
+
+Before that, I achieve my master's degree from [State Key Laboratory of Computer Architecture](http://www.carch.ac.cn/), [Institute of Computing Technology, Chinese Academy of Sciences (SKL, ICT, CAS)](http://www.ict.cas.cn/) under the supervision of Prof.[Yunquan Zhang](https://scholar.google.com/citations?user=Cxg_yNoAAAAJ&hl=zh-CN). I obtain my B.E. in [Yunnan University](), worked with [Prof.Zhang binbin]()
+
+I am interested in high-performance computing (performance tuning, SIMD optimization, GPGPU, GEMM, FFT) and building large-scale high-performance distributed computing systems.
 
 
 # EDUCATIONS 
-- 2017.9-Now, Institute of Computing Technology, Chinese Academy of Sciences, Master, High-Performance Computing, Supervisor: Prof. [Yunquan Zhang](http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html).
+- 2017.9-Now, Institute of Computing Technology, Chinese Academy of Sciences, Master, High-Performance Computing, 
 
-- 2013.9-2017.7, Yunnan University, B.Eng, Computer Science(3/121). 
+- 2013.9-2017.7, Yunnan University, B.Eng, Computer Science(3/121).
 
-# RESEARCH PROJECTS 
-
-- RealFFT: A High performance Real-Number FFT library that supports 1-3 dimensianal float/double on both ARMv8 and X86-64 CPU (Sept.2017~Sept.2019)
-
-   - **Role**: Lead and Core Developer 
-
-   - Design and optimize 11 kind 1-3 dimensianl float/double Real FFT algorithms.
-
-   - Implement Stockham Butterfly-Network for even-size real input data, including 11 real FFT kinds.
-
-   - Optimize and parallalize computations with NEON and AVX on ARMv8/X86 CPUs.
-
-   - Design cache-aware algorithms by block computations with multi-level caches accordingly.
-
-   - **Optimizing Effect**: Faster than [FFTW](http://www.fftw.org/) on ARMv8 platform around 34%~53% for 1D transforms, 10%~41% for 2D transforms, and achieve a nearly matchable performance than [MKL](https://software.intel.com/en-us/mkl/features/fft) for some kinds.
-
-- A high-performance IPP library on ARMv8 architecture (May.2017~Aug.2017)
-
-   - **Role**: Core Developer
-
-   - Develop accuracy benchmark for performance primitives, such as e^x, ln(x), median filter, max operation, min operation, etc.
-
-   - Parallelize and optimize these operations on ARMv8 CortexA57 CPU with Neon SIMD.
-
-   - **Optimizing Effect**: Achieve comparable speedup on ARMv8 with that achieved on X86 compared with the same performance benchmark.
-
-
-- Transplant OpenBLAS GEMM on Tianhe-3 Supercomputer FT2000+ CPU (Oct.2018~Nov.2018) 
-
-   - **Client**: National Supercomputing Center in Tianjin 
-
-   - **Role**: Core Developer
-
-   - Tune GEMM performance based on architecture of FT2000+ CPU.
-
-   - Adjust P, Q, R parameter in block size of matrix multiplication. 
-
-   - Manage vector registers in different ways, such as 4x4, 16x4 and 8x8. 
-
-   - Tune instructions order to achieve better CPU pipeline.
-
-   - **Optimizing Effect**: SGEMM, DGEMM, CGEMM, ZGEMM achieve 94.2%, 84.3%, 87.6%, 95.4% of theoretical peak performance.
-
-
-- AutoFFT: A high-performance template-based FFT auto-generation framework (July.2017-July.2019)
-
-   - **Role**: Main Participant
-
-   - Contribute to optimize some specific radix-butterfly SIMD-assembly Kernel on ARM CPUs.
-
-   - Contribute all Real numbered FFT implementations
-
-
-- High-performance GPU SIFT (July.2017-Sept.2019)
-
-   - **Role**: Participant
-
-   - Contribute to some algorithms discussions.
-
-
-- Virtual machine placement based on cluster-based genetic algorithm (Oct.2015-July.2016)
-
-   - **Role**: Core designer and developer  
-
-   - Design whole algorithms and experiments
-
-
-- Full-time Software engineer at Alibaba Cloud (July.2020-Now)
-
+# Industry Experience
+- Full-time Software engineer at [Alibaba Cloud](https://my.alibabacloud.com/?utm_key=se_1007714444&utm_content=se_1007714444&gclid=EAIaIQobChMI4tKox43i-QIVEZhmAh02nwv1EAAYASAAEgIzbvD_BwE) (July.2020-Now)
    - Design and implement adaptive distributed aggregation algorithm(hahs or sort) depending on data runtime statistical characteristics (1.1x~1.2x speedup in average for all job end to end time). 
-
    - Design and implement hash-based distributed distinct aggregation (2~50x speedup in average for all jobs end to end time)
-
    - Design and implement high performance vectorization implementation of 30 kinds of aggregate functions (around 2x speedup in average for all aggregation computations is achieved).
-
    - Optimize no-group by key aggregate function with Loop unrolling and SIMD (effective for numercial aggregate, 2~3 speedup for aggregation computations is achieved).
-
    - Design and implement row-stores for hashset randomly written operations.
 
 
 # INTERNSHIPS 
-
-- Amazon AWS AI Lab(ShangHai) (Jun.2019~Aug.2019)                                 
-
-   - **Role**: Software Developer Intern
-
+- [Amazon AWS AI Lab(ShangHai)](https://www.amazonaws.cn/en/ailab/) (Jun.2019~Aug.2019)                                 
    - Contribute numpy-compatible operators to MXNet.
 
-- PerfxLab(Startup in Beijing) (Mar.2019~May.2019)                                
-
-   - **Role**: Core Developer for optimizing GPU filter algorithms by OpenCL.
-
+- [PerfxLab(Beijing)](https://perfxlab.com/) (Mar.2019~May.2019)                                
    - Implement column-row seperatable gaussian filter based on OpenCL.
-
    - Tune performance specifically for AMD GPU (GCN Architecture).
-
-   - Faster than OpenCV around 21%-33%, especially when filter size is larger than 5.
-
 
 # PUBLICATIONS 
 
-- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform](http://www.escience.cn/system/download/103329). **Wang Xiao** and Jia Haipeng and Li Zhihao and Zhang Yunquan. International Conference on Algorithms and Architectures for Parallel Processing: 2018 ,338-353. Guangzhou, China. (ICA3PP18, CCF C; EI).
+- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform](http://www.escience.cn/system/download/103329). 
+- **Wang Xiao** and Jia Haipeng and Li Zhihao and Zhang Yunquan. [ICA3PP18](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=76333&copyownerid=117247).
+- RealFFT is a high performance Real number FFT library which supports 11 kinds of 1-3 dimensional float/double algorithms on both ARMv8 and x86 CPUs.
 
-- [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821). Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and **Xiao Wang** et al. Journal of Parallel and Distributed Computing: 2019 ,124 ,78 - 91. (JPDC, CCF B; SCI, Impact Factor:1.815).
+- [Efficient parallel optimizations of a high-performance SIFT on GPUs](http://www.escience.cn/system/download/102821). 
+- Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and **Xiao Wang** et al. [JPDC19](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)
+- HartSift is a high-performance SIFT implementation that achieves higher performances than its counterpart in [OpenCV](https://opencv.org/), [SiftGPU](https://github.com/pitzer/SiftGPU), [CudaSift](https://github.com/Celebrandil/CudaSift). 
 
-- [AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs](). Zhihao Li, Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, **Xiao Wang**. The International Conference for High Performance Computing, Networking, Storage, and Analysis. November 17–22, 2019, Denver, CO, USA. (SC19, CCF A).
+- [AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs](). 
+- Zhihao Li, Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, **Xiao Wang**. [SC19](https://sc19.supercomputing.org/).
+- AutoFFT is a template-based FFT auto-generation framework that acheive significant performance improvements on various CPUs and contributes to many Chinese vendor's library.
 
-- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations](https://link.springer.com/content/pdf/bbm%3A978-3-319-39958-4%2F1.pdf). **Xiao Wang**, Hongmei Chen, Qing Xiao. Conference on Web-Age Information Management 2016, 524-526. Nanchang, China. (WAIM16; Demo Paper, CCF C; EI).
+- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations](https://link.springer.com/content/pdf/bbm%3A978-3-319-39958-4%2F1.pdf). 
+- **Xiao Wang**, Hongmei Chen, Qing Xiao. [WAIM16](https://dblp.org/db/conf/waim/waim2016-1.html).
+- MVUC proposes a data mining visualization method for spatial co-location patterns on urban datasets.
 
-- [Virtual machine placement strategy using cluster-based genetic algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312005). Binbin Zhang, **Xiao Wang**, Hao Wang. Neurocomputing (CCF-C)
+- [Virtual machine placement strategy using cluster-based genetic algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312005). 
+-  Binbin Zhang, **Xiao Wang**, Hao Wang. [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+-  This work propose a cluster-based genetic algorithm to optimize migration of virtual machines.
 
 # AWARDS 
 
