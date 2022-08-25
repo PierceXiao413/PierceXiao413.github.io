@@ -246,4 +246,4 @@ function initMap() {
 - Address: No.6 Zhong Guan Cun Ke Xue Yuan South Road, Haidian District, Beijing, China <br/>
 
 # RESUME 
-[Resume_pdf_version]({{ site.url }}./wangxiao_cv_long.pdf)
+[Resume_pdf_version]({{ site.url }}./wangxiao.pdf)
