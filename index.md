@@ -19,24 +19,24 @@ I am interested in high-performance computing (Performance tuning and modeling, 
 
 # Industry Experience
 - Full-time Software engineer at [MaxCompute, Alibaba Cloud](https://my.alibabacloud.com/?utm_key=se_1007714444&utm_content=se_1007714444&gclid=EAIaIQobChMI4tKox43i-QIVEZhmAh02nwv1EAAYASAAEgIzbvD_BwE)
-   - Investigate other OLAP sys(Clickhouse) & Manage releasing procedures and quality of one sprint covering different releasing regions and core users **July.2020-July.2021**.
-   - Design adaptive distributed aggregation algorithms which are interchangable between hash-based and sort-based algorithms during runtime depending on data statistical characteristics **Aug.2021-Dec.2021**. 
-   - Refactorize high-performance vectorization aggregation for 30 kinds of aggregate functions **Jan.2022-Mar.2022**.
-   - Design and implement hash-based distributed distinct aggregation algorithms for queries with multiple distinct functions **Mar.2022-July.2022**.
-   - Optimize performances of aggregate functions for query that without group-by keys by loop unrolling and SIMD **April.2022-July.2022**.
-   - Improve data locality for hash-aggregation by designing and implementing row stores for aggregated intermediate partial states **July.2022-Sept.2022**,
-   - Optimize HashTable vectorization implementations of distributed HashJoin **Aug.2022-**.
+   - **July.2020-July.2021** Investigate other OLAP sys(Clickhouse) & Manage releasing procedures and quality of one sprint covering different releasing regions and core users. 
+   - **Aug.2021-Dec.2021** Design adaptive distributed aggregation algorithms which are interchangable between hash-based and sort-based algorithms during runtime depending on data statistical characteristics. 
+   - **Jan.2022-Mar.2022** Refactorize high-performance vectorization aggregation for 30 kinds of aggregate functions. 
+   - **Mar.2022-July.2022** Design and implement hash-based distributed distinct aggregation algorithms for queries with multiple distinct functions 
+   - **April.2022-July.2022** Optimize performances of aggregate functions for query that without group-by keys by loop unrolling and SIMD. 
+   - **July.2022-Sept.2022** Improve data locality for hash-aggregation by designing and implementing row stores for aggregated intermediate partial states. 
+   - **Aug.2022-** Optimize HashTable vectorization implementations of distributed HashJoin. 
 
 
 - Software engineer intern at [Amazon AWS AI Lab(ShangHai)](https://www.amazonaws.cn/en/ailab/)                                  
-   - Contribute to numpy-compatible operators for [MXNet](https://github.com/apache/incubator-mxnet)(July.2019~Aug.2019).
+   - **July.2019~Aug.2019** Contribute to numpy-compatible operators for [MXNet](https://github.com/apache/incubator-mxnet).
 
 - Software engineer intern at [PerfxLab(Beijing)](https://perfxlab.com/)                                 
-   - Implement column-row seperatable gaussian filter based on OpenCL (Mar.2019~May.2019).
-   - Tune performance specifically for [AMD GCN arch GPU](https://www.amd.com/zh-hans/technologies/gcn)(Jun.2018-Aug.2018).
+   - **Mar.2019~May.2019** Implement column-row seperatable gaussian filter based on OpenCL. 
+   - **Jun.2018-Aug.2018** Tune performance specifically for [AMD GCN arch GPU](https://www.amd.com/zh-hans/technologies/gcn).
 
 - Research Assistant at [Institute of Computing Technology](http://www.ict.cas.cn/)
-   - Develop and optimize high-performance libraries on ARM CPUs which is compatible with [Intel IPP](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ipp.html)(May.2017-Aug.2017). 
+   - **May.2017-Aug.2017** Develop and optimize high-performance libraries on ARM CPUs which is compatible with [Intel IPP](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ipp.html). 
 
 # Research Projects & Publications 
 - [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform]({{ site.url }}./ICA3PP18.pdf). 
