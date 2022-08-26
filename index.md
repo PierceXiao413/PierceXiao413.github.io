@@ -52,7 +52,7 @@ I am interested in high-performance computing (Performance tuning and modeling, 
   - Authors List: Zhihao Li, Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, **Xiao Wang**. [SC19](https://sc19.supercomputing.org/).
   - Brief introduction: AutoFFT is a template-based FFT auto-generation framework that acheive significant performance improvements on various CPUs and contributes to many Chinese vendor's library.
 
-- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations]({{ site.url }}./WAIM.pdf). 
+- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations]({{ site.url }}./WAIM16.pdf). 
   - Authors List: **Xiao Wang**, Hongmei Chen, Qing Xiao. [WAIM16](https://dblp.org/db/conf/waim/waim2016-1.html).
   - Brief introduction: MVUC proposes a data mining visualization method for spatial co-location patterns mined from urban datasets.
 
