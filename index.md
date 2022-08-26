@@ -5,9 +5,8 @@
 layout: default 
 ---
 
-<!--
 ![xiaowang(王霄)]({{ site.url }}/wangxiao.jpg){:class="img-responsive"}
----!>
+
 I am currently a full-time software engineer in [MaxCompute](https://www.alibabacloud.com/product/maxcompute), [Alibaba Cloud](https://my.alibabacloud.com/?utm_key=se_1007714444&utm_content=se_1007714444&gclid=EAIaIQobChMI4tKox43i-QIVEZhmAh02nwv1EAAYASAAEgIzbvD_BwE). I aim to build and optimze high-performance SQL execution engine. 
 
 Before that, I achieve my master's degree from [State Key Laboratory of Computer Architecture](http://www.carch.ac.cn/), [Institute of Computing Technology, Chinese Academy of Sciences (SKL, ICT, CAS)](http://www.ict.cas.cn/) under the supervision of Prof.[Yunquan Zhang](https://scholar.google.com/citations?user=Cxg_yNoAAAAJ&hl=zh-CN). I obtain my B.E. in [Yunnan University](), worked with [Prof.Zhang binbin]()
@@ -58,33 +57,6 @@ I am interested in high-performance computing (performance tuning, SIMD optimiza
 - [Virtual machine placement strategy using cluster-based genetic algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312005). 
 -  Binbin Zhang, **Xiao Wang**, Hao Wang. [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 -  This work propose a cluster-based genetic algorithm to optimize migration of virtual machines.
-
-# AWARDS 
-
-- 2019 Merit Students Awards of University of Chinese Academy of Sciences.
-
-- 2017 Outstanding Undergraduate Students Awards of Yunnan province(Top 5%).
-
-- 2016 The CCF Outstanding Undergraduate Award.(Select 100 undergraduate students every year from all universities in China).
-
-- 2015 First Prize in Contemporary Undergraduate Mathematical Contest in Modeling in Yunnan Province. 
-
-- Merit Student of Yunnan University && First-class Scholarship.
-
-# OTHER EXPERIENCE
-
-- Serving as volunteer in Mental Health Therapy Center in Kunming.
-
-- Serving as volunteer in water supply for foresters around University of Chinese academy of Sciences. 
-
-
-# SKILLS
-
-- Programming Language: proficient in c, SIMD(Neon/AVX), skilled at OpenCL/c++. 
-
-- Development Tools: proficient in VIM, CMAKE, Git, gcc, g++, average at Google GTEST, Makefile. 
-
-- English Level: Toefl 102, GRE 328.
 
 # Traveling
 
