@@ -5,7 +5,7 @@
 layout: default 
 ---
 
-![xiaowang(王霄)]({{ site.url }}./IMG_2345.JPG){:class="img-responsive"}
+![xiaowang(王霄)]({{ site.url }}./IMG_2356.JPG){:class="img-responsive"}
 
 Hello! I am currently a full-time software engineer in [MaxCompute previous called ODPS](https://www.alibabacloud.com/product/maxcompute), [Alibaba's](https://my.alibabacloud.com/?utm_key=se_1007714444&utm_content=se_1007714444&gclid=EAIaIQobChMI4tKox43i-QIVEZhmAh02nwv1EAAYASAAEgIzbvD_BwE) large-scale, distributed computing and storage platform. Currently, I am busy on building and optimizing a high-performance SQL execution engine for [MaxCompute-SQL](https://www.alibabacloud.com/help/en/maxcompute/latest/overview-of-maxcompute-sql). 
 
