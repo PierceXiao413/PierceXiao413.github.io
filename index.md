@@ -19,7 +19,7 @@ I am interested in high-performance computing (Performance tuning and modeling, 
 
 # Industry Experience
 - Full-time Software engineer at [MaxCompute, Alibaba Cloud](https://my.alibabacloud.com/?utm_key=se_1007714444&utm_content=se_1007714444&gclid=EAIaIQobChMI4tKox43i-QIVEZhmAh02nwv1EAAYASAAEgIzbvD_BwE)
-   - **July.2020-July.2021** Investigate other OLAP sys(Clickhouse) & Manage releasing procedures and quality of one sprint covering different releasing regions and core users. 
+   - **July.2020-July.2021** Investigate other OLAP sys([Clickhouse](https://clickhouse.com/)) & Manage releasing procedures and quality of one sprint covering different releasing regions and core users. 
    - **Aug.2021-Dec.2021** Design adaptive distributed aggregation algorithms which are interchangable between hash-based and sort-based algorithms during runtime depending on data statistical characteristics. 
    - **Jan.2022-Mar.2022** Refactorize high-performance vectorization aggregation for 30 kinds of aggregate functions. 
    - **Mar.2022-July.2022** Design and implement hash-based distributed distinct aggregation algorithms for queries with multiple distinct functions 
