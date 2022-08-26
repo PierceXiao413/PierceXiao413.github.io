@@ -39,32 +39,27 @@ I am interested in high-performance computing (Performance tuning and modeling, 
    - **May.2017-Aug.2017** Develop and optimize high-performance libraries on ARM CPUs which is compatible with [Intel IPP](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ipp.html). 
 
 # Research Projects & Publications 
-- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform]({{ site.url }}./ICA3PP18.pdf) 
-  [**ICA3PP18**](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=76333&copyownerid=117247).
+- [Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform]({{ site.url }}./ICA3PP18.pdf) [**ICA3PP18**](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=76333&copyownerid=117247).
   - **Sept.2017-Sept.2019**
   - **Authors**: **Wang Xiao** and Jia Haipeng and Li Zhihao and Zhang Yunquan. 
   - **Brief introduction**: RealFFT is a high performance real number FFT library which supports 11 kinds of 1-3 dimensional float/double algorithms on both ARMv8 and x86 CPUs. It could outperforms [FFTW](https://www.fftw.org/) on ARMv8 CPUs at that time.
 
-- [Efficient parallel optimizations of a high-performance SIFT on GPUs]({{ site.url }}./JPDC.pdf)  
-  [**JPDC19**](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing).
+- [Efficient parallel optimizations of a high-performance SIFT on GPUs]({{ site.url }}./JPDC.pdf) [**JPDC19**](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing).
   - **July.2017-Sept.2017**
   - **Authors**: Zhihao Li and Haipeng Jia and Yunquan Zhang and Shice Liu and Shigang Lia and **Xiao Wang** et al.   
   - **Brief introduction**; HartSift is a high-performance SIFT implementation that achieves higher performances than its counterpart in [OpenCV](https://opencv.org/), [SiftGPU](https://github.com/pitzer/SiftGPU), [CudaSift](https://github.com/Celebrandil/CudaSift). 
 
-- [AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs]({{ site.url }}./SC19.pdf)  
-  [SC19](https://sc19.supercomputing.org/).
+- [AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs]({{ site.url }}./SC19.pdf) [**SC19**](https://sc19.supercomputing.org/).
   - **July.2018-July.2019**
   - **Authors**: Zhihao Li, Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, **Xiao Wang**.
   - **Brief introduction**: AutoFFT is a template-based FFT auto-generation framework that acheive significant performance improvements on various CPUs and contributes to many Chinese vendor's library.
 
-- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations]({{ site.url }}./WAIM16.pdf)  
-  [WAIM16](https://dblp.org/db/conf/waim/waim2016-1.html).
+- [MVUC: An Interactive System for Mining and Visualizing Urban Co-locations]({{ site.url }}./WAIM16.pdf) [**WAIM16**](https://dblp.org/db/conf/waim/waim2016-1.html).
   - **Oct.2014-July.2014**
   - **Authors**: **Xiao Wang**, Hongmei Chen, Qing Xiao.
   - **Brief introduction**: MVUC proposes a data mining visualization method for spatial co-location patterns mined from urban datasets.
 
-- [Virtual machine placement strategy using cluster-based genetic algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312005)   
-  [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing).
+- [Virtual machine placement strategy using cluster-based genetic algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312005) [**Neurocomputing**](https://www.sciencedirect.com/journal/neurocomputing).
   - **Oct.2015-July2016**
   - **Authors**: Binbin Zhang, **Xiao Wang**, Hao Wang. 
   - **Brief introduction**: This work proposes a cluster-based genetic algorithm to optimize migration strategies for virtual machines.
