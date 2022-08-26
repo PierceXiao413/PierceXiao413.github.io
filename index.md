@@ -13,18 +13,17 @@ Before that, I achieve my master's degree from [State Key Laboratory of Computer
 
 I am interested in high-performance computing (Performance tuning and modeling, SIMD, GPGPU, GEMM, FFT) and building large-scale high-performance distributed computing systems.
 
-
 # Education 
 - 2017.9-2020.7, Institute of Computing Technology, Chinese Academy of Sciences, Master, High-Performance Computing, 
 - 2013.9-2017.7, Yunnan University, B.Eng, Computer Science(3/121).
 
 # Industry Experience
 - Full-time Software engineer at [Alibaba Cloud MaxCompute](https://my.alibabacloud.com/?utm_key=se_1007714444&utm_content=se_1007714444&gclid=EAIaIQobChMI4tKox43i-QIVEZhmAh02nwv1EAAYASAAEgIzbvD_BwE)
-   - Investigate other OLAP sys(Clickhouse) & Manage releasing procedures and quality of one sprint covering different releasing regions and core users.(July.2020-July.2021)
-   - Design adaptive distributed aggregation algorithms which are interchangable between hash-based and sort-based algorithms during runtime depending on data statistical characteristics (1.1x~1.2x speedup for all jobs' end2end time)(Aug.2021-Dec.2021). 
-   - Refactorize high-performance vectorization aggregation for 30 kinds of aggregate functions (around 2x speedup in average for all aggregation computations)(Jan.2022-Mar.2022).
-   - Design and implement hash-based distributed distinct aggregation algorithms for queries with multiple distinct functions (2~50x speedup in average for all jobs end2end time).(Mar.2022-July.2022) 
-   - Optimize performances of aggregate functions for query that without group-by keys by loop unrolling and SIMD (2~3 speedup for aggregation computations is achieved).(April.2022-July.2022)
+   - Investigate other OLAP sys(Clickhouse) & Manage releasing procedures and quality of one sprint covering different releasing regions and core users (July.2020-July.2021).
+   - Design adaptive distributed aggregation algorithms which are interchangable between hash-based and sort-based algorithms during runtime depending on data statistical characteristics (Aug.2021-Dec.2021). 
+   - Refactorize high-performance vectorization aggregation for 30 kinds of aggregate functions (Jan.2022-Mar.2022).
+   - Design and implement hash-based distributed distinct aggregation algorithms for queries with multiple distinct functions (Mar.2022-July.2022).
+   - Optimize performances of aggregate functions for query that without group-by keys by loop unrolling and SIMD (April.2022-July.2022).
    - Improve data locality for hash-aggregation by designing and implementing row stores for aggregated intermediate partial states.(July.2022-Sept.2022)
    - Optimize HashTable vectorization implementations of distributed HashJoin (Aug.2022-).
 
@@ -37,7 +36,7 @@ I am interested in high-performance computing (Performance tuning and modeling, 
    - Implement column-row seperatable gaussian filter based on OpenCL (Mar.2019~May.2019).
    - Tune performance specifically for [AMD GCN arch GPU](https://www.amd.com/zh-hans/technologies/gcn)(Jun.2018-Aug.2018).
 
-- [Institute of Computing Technology]
+- [Institute of Computing Technology](http://www.ict.cas.cn/)
    - Develop and optimize high-performance libraries on ARM CPUs which is compatible with [Intel IPP](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ipp.html)(May.2017-Aug.2017). 
 
 # Research Project & Publications 
@@ -59,17 +58,16 @@ I am interested in high-performance computing (Performance tuning and modeling, 
 
 - [Virtual machine placement strategy using cluster-based genetic algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312005). 
   - Athors List: Binbin Zhang, **Xiao Wang**, Hao Wang. [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-  - Brief introduction: This work propose a cluster-based genetic algorithm to optimize migration strategies of virtual machines.
+  - Brief introduction: This work proposes a cluster-based genetic algorithm to optimize migration strategies for virtual machines.
 
 # Traveling
-- I am enjoy travelling and observe what is happening in our planet. Currently I main travel within China, I hope to left my footprints on each continets in the future.
-  the cities I have been include:
-  China: Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei, Zhengzhou, Shangqiu, Xinxiang, Kaifeng, Nanyang.
-  United States: Denver, Colorado, Los Angeles, Chicago, 
-  Italy: Rome, Venice. 
-  France: Paris, 
-  Germany: Luxembourg, Heidelberg.
-  Switzerland: Interlaken, 
+- I am enjoy travelling and observe what is happening in our planet. Currently I main travel within China, I hope to left my footprints on each continets in the future. Regions I have been include:
+  - China: Beijing, Shanghai, Chongqing, Tianjin, Shenzhen, Zhuhai, Guangzhou, Huhhot, Kunming, Dali, HeFei, Zhengzhou, Shangqiu, Xinxiang, Kaifeng, Nanyang.
+  - The United States: Denver, Colorado, Los Angeles, Chicago, 
+  - Italy: Rome, Venice. 
+  - France: Paris, 
+  - Germany: Luxembourg, Heidelberg.
+  - Switzerland: Interlaken, 
 
 # CONTACT 
 - Email Address: shawnWangCS@outlook.com 
